@@ -1,5 +1,7 @@
 {
   "name": "smartprojectsmx",
   "compatibility_date": "2026-06-29",
-  "assets": { "directory": "./out" }
+  "assets": {
+    "directory": "./out"
+  }
 }
