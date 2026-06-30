@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Smart Projects MX',
-  description: 'Soluciones integrales para gobierno, seguridad, salud e industria'
+  title: 'Smart Projects MX | Soluciones Integrales',
+  description: 'Soluciones integrales para gobierno, seguridad, salud, protección civil, vehículos especiales, tecnología, telecomunicaciones, ingeniería y logística.',
 };
 
 export default function RootLayout({ children }) {
