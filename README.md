@@ -1,3 +1,3 @@
 # Smart Projects MX
 
-Sitio oficial.
+Sitio web corporativo listo para GitHub y Cloudflare.
